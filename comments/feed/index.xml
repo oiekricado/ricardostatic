@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios para RICARDO	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Mon, 03 May 2021 00:34:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>
+		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
+		<link>/2021/05/03/hola-mundo/#comment-1</link>
+
+		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
+		<pubDate>Mon, 03 May 2021 00:31:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hola, esto es un comentario.
+Para empezar a moderar, editar y borrar comentarios, por favor, visita la pantalla de comentarios en el escritorio.
+Los avatares de los comentaristas provienen de &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hola, esto es un comentario.<br />
+Para empezar a moderar, editar y borrar comentarios, por favor, visita la pantalla de comentarios en el escritorio.<br />
+Los avatares de los comentaristas provienen de <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Nunc lacinia libero eu pulvinar aliquet por John Doe		</title>
+		<link>/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-4</link>
+
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 16:57:54 +0000</pubDate>
+		<guid isPermaLink="false">/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-4</guid>
+
+					<description><![CDATA[Nam platea fringilla ad senectus eget taciti feugiat neque eleifend, mauris dolor rhoncus dapibus euismod placerat lacinia bibendum, praesent lorem nec augue risus hendrerit diam enim.]]></description>
+			<content:encoded><![CDATA[<p>Nam platea fringilla ad senectus eget taciti feugiat neque eleifend, mauris dolor rhoncus dapibus euismod placerat lacinia bibendum, praesent lorem nec augue risus hendrerit diam enim.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Nunc lacinia libero eu pulvinar aliquet por Tanya Munhall		</title>
+		<link>/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-3</link>
+
+		<dc:creator><![CDATA[Tanya Munhall]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 16:57:38 +0000</pubDate>
+		<guid isPermaLink="false">/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-3</guid>
+
+					<description><![CDATA[Dapibus himenaeos dolor mus habitasse efficitur ex bibendum auctor, erat tempus facilisi adipiscing class cubilia metus pretium, egestas litora risus massa accumsan leo ipsum elit, turpis dui enim purus fermentum primis phasellus.]]></description>
+			<content:encoded><![CDATA[<p>Dapibus himenaeos dolor mus habitasse efficitur ex bibendum auctor, erat tempus facilisi adipiscing class cubilia metus pretium, egestas litora risus massa accumsan leo ipsum elit, turpis dui enim purus fermentum primis phasellus.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Nunc lacinia libero eu pulvinar aliquet por John Mechling		</title>
+		<link>/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-2</link>
+
+		<dc:creator><![CDATA[John Mechling]]></dc:creator>
+		<pubDate>Thu, 07 May 2020 16:57:17 +0000</pubDate>
+		<guid isPermaLink="false">/2020/05/06/nunc-lacinia-libero-eu-pulvinar-aliquet/#comment-2</guid>
+
+					<description><![CDATA[lNunc feugiat cursus netus urna pharetra maecenas magnis nisl libero eleifend, ultrices id ex massa sociosqu lectus orci ultricies etiam, in pellentesque varius eu purus ligula pretium ullamcorper vestibulum.]]></description>
+			<content:encoded><![CDATA[<p>lNunc feugiat cursus netus urna pharetra maecenas magnis nisl libero eleifend, ultrices id ex massa sociosqu lectus orci ultricies etiam, in pellentesque varius eu purus ligula pretium ullamcorper vestibulum.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
